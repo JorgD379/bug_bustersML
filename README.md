@@ -12,7 +12,8 @@
 1) Иметь Python версии 3.0 и выше на компьютере
 2) Установить библиотеки из списка в файле "requirements.txt" с помощью pip
 3) Скачать и установить Tesseract ( https://github.com/UB-Mannheim/tesseract/wiki). При установке дополнительно выбрать русский язык
-4) Скачать проект с диска *https://drive.google.com/file/d/1AQtr5LiZ-GUNL6bXkCGGUVZQXTzBd9mQ/view?usp=sharing*
+4) Скачать проект с диска 
+https://drive.google.com/file/d/1LH-YmwTq5Xms9bKf9fX_RHkKolq4k-GE/view?usp=sharing
 5) В папке с проектом зайти в папку EasyML
 6) Открыть терминал в этой папке
 7) Ввести команду: python manage.py runserver
@@ -36,6 +37,14 @@
 --------------
 
 
+-----ДЕМО-----
+
+
+Запись примера работы с сервисом
+https://drive.google.com/drive/folders/1ZyfrR_BD9lMIet1VNQUx7t-wlw_WM_Kx?usp=sharing
+--------------
+
+
 ----ПОМОЩЬ----
 
 
@@ -44,3 +53,4 @@
 2) Максимов Максим @maks_maks1
 3) Ахунов Олег @olicrab
 --------------
+
